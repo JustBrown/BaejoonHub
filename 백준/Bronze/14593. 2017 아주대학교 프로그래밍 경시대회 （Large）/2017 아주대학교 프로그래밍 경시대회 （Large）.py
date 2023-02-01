@@ -1,10 +1,4 @@
 import sys
 input = sys.stdin.readline
-
-array = []
-for i in range(int(input())):
-    s, c, l = map(int, input().split())
-    array.append((-s, c, l, i+1))
-array.sort()
-
-print(array[0][3])
+array = [tuple(map(int, input().split())) for _ in range(int(input()))]
+print(array.index(sorted(array, key=lambda x:(-x[0], x[1], x[2]))[0])+1)
