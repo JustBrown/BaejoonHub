@@ -7,8 +7,8 @@
 
 ## Skills
 ### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white">
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![C sharp](https://img.shields.io/badge/C%20Sharp-239120.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white)
 
 ### Platforms
 
