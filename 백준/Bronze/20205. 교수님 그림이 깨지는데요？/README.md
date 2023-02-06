@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 48 ms
+메모리: 31256 KB, 시간: 44 ms
 
 ### 분류
 
@@ -18,7 +18,7 @@
 
 <p>기존의 픽셀이 늘린 방향으로 넓게 퍼질 뿐 해상도가 늘어나진 않는다.</p>
 
-<p style="text-align: center;"><img alt="" src=""></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/473b24e6-9cbd-498a-a653-bcfb27c6bb31/-/preview/"></p>
 
 <p style="text-align: center;">< 그림 1. 크기를 늘린 비트맵 이미지의 예시 ></p>
 
@@ -26,7 +26,7 @@
 
 <p>업샘플링을 하는 방법은 여러 가지가 있는데 그중 가장 간단한 방법은 기존 픽셀의 배열을 그대로 유지한 채, 각 픽셀의 개수를 동일하게 늘리는 방법이다.</p>
 
-<p style="text-align: center;"><img alt="" src=""></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a170eb35-16a1-4e0e-be7b-fb9d9febdc0f/-/preview/"></p>
 
 <p style="text-align: center;"><그림 2. 그림을 가로, 세로로 K(=2) 배 늘렸을 때 추가된 픽셀의 모습 ></p>
 
