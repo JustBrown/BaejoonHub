@@ -6,6 +6,5 @@ for _ in range(int(input())):
     s, e = map(int, input().split())
     for d in range(s, e):
         date[d] += 1
-k = int(input())
 
-print(1 if max(date)<=k else 0)
+print(1 if max(date)<=int(input()) else 0)
