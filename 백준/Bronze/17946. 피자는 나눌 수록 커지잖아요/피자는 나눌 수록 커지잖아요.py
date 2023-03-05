@@ -1,1 +1,1 @@
-print('\n'.join('1'*int(input())))
+print(('1\n'*int(input())))
