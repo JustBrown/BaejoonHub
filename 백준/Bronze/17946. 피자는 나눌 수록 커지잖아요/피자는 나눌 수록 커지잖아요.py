@@ -1,1 +1,1 @@
-[print(1) for _ in range(int(input()))]
+print('\n'.join('1'*int(input())))
