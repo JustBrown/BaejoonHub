@@ -1,3 +1,6 @@
+import sys
+input = sys.stdin.readline
+
 result = 0
 for _ in range(int(input())):
     dict_num = {i: 0 for i in range(1, 7)}
