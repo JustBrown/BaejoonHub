@@ -1,6 +1,3 @@
-import sys
-input = sys.stdin.readline
-
 cups = [i+1 for i in range(3)]
 for _ in range(int(input())):
     x, y = map(int, input().split())
