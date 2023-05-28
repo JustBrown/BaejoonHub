@@ -1,0 +1,6 @@
+S = "".join([s for s in input() if s.isupper()])
+u  = S.find("U")
+c1 = S.find("C", u)
+p  = S.find("P", c1)
+c2 = S.find("C", p)
+print("I love UCPC" if (-1 not in [u, c1, p, c2]) and (u < c1 < p < c2) else "I hate UCPC")
